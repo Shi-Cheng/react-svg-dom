@@ -1,7 +1,8 @@
+import Logs from './pages/logs'
 function App() {
   return (
     <div className="App">
-      123
+      <Logs></Logs>
     </div>
   );
 }

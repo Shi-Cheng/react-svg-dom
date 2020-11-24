@@ -92,6 +92,7 @@
     ]
   },
   "devDependencies": {
+    "prop-types": "^15.7.2",
     "svg-sprite-loader": "^5.0.0"
   },
   "jest": {
